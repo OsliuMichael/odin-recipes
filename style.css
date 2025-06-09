@@ -1,0 +1,10 @@
+html {
+    box-sizing: border-box;
+}
+.title {
+    height: auto;
+    width: 360px;
+    background-color: darkgoldenrod;
+    text-align: center;
+    margin: 0  auto;
+}
