@@ -1,5 +1,6 @@
 html {
     box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .title {
     height: auto;
@@ -7,4 +8,7 @@ html {
     background-color: darkgoldenrod;
     text-align: center;
     margin: 0  auto;
+}
+.recipe {
+
 }
