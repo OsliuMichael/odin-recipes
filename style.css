@@ -26,3 +26,12 @@ color: #b56a1e;
     border: gold;
     border: 5px solid black;
 }
+
+button {
+    font-size: large;
+    font-weight: 600;
+    color: black;
+    background-color: yellow;
+    width: 100px;
+    padding: 10px;
+}
