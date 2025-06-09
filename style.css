@@ -10,5 +10,12 @@ html {
     margin: 0  auto;
 }
 .recipe {
-
+    font-size: medium;
+    font-weight: 700;
+    width: 180px;
+display: block;
+padding: 10px;
+margin: 5px;
+background-color: rgb(218, 218, 32);
+color: #b56a1e;
 }
